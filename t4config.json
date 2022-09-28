@@ -1,0 +1,42 @@
+{
+  "environments": {
+    "test": "478b6a29-6abe-4845-b80a-5b3c3ee54bf7"
+  },
+  "assets": {
+    "contentLayouts": [
+      {
+        "id": 391,
+        "projectPath": "content-types/Accordion Widget/text-html"
+      }
+    ],
+    "pageLayouts": [
+      {
+        "id": 25544,
+        "headerCode": "page-layouts/4C Vincent Main Layout/headerCode",
+        "footerCode": "page-layouts/4C Vincent Main Layout/footerCode"
+      }
+    ],
+    "media": [
+      {
+        "id": 67956,
+        "description": "A field of sunflowers",
+        "projectPath": "medias/Categorised/Archive/Training Manuals/A_field_of_sunflowers.jpg"
+      },
+      {
+        "id": 69650,
+        "description": "landscape",
+        "projectPath": "medias/Categorised/Archive/Training Manuals/pexels-jaime-reimer-2662116.jpg"
+      },
+      {
+        "id": 18916,
+        "description": "modernizr",
+        "projectPath": "medias/Categorised/Archive/Training Manuals/Data Object/modernizr.js"
+      },
+      {
+        "id": 19153,
+        "description": " jquery.min.js",
+        "projectPath": "medias/Categorised/Archive/Training Manuals/Data Object/jquery.min.js"
+      }
+    ]
+  }
+}
